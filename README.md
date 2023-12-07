@@ -2,10 +2,10 @@
 
 ## Installation steps
 
-1) clone the project  - 
+1) clone the project  - ```https://github.com/JoseAntony07/Social-Network.git```
 2) run the project    - 1. ```docker-compose build && docker-compose up``` or use normal method
                         2. ```activate venv``` and run the project
-3) postman collection - https://api.postman.com/collections/20653730-165acf22-3657-4c0a-8cb5-130b851b3371?access_key=PMAT-01HH2KCGXJ938E4H02RWPZER2C
+3) postman collection - ```https://api.postman.com/collections/20653730-165acf22-3657-4c0a-8cb5-130b851b3371?access_key=PMAT-01HH2KCGXJ938E4H02RWPZER2C```
 
 ## Api Endpoints
 
